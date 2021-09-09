@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/HawaiiMusic-Loop.mp3-6582cad063465d9ace8a8f01f7704b35.mp3str"
+
+[deps]
+
+source_file="res://HawaiiMusic-Loop.mp3"
+dest_files=[ "res://.import/HawaiiMusic-Loop.mp3-6582cad063465d9ace8a8f01f7704b35.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

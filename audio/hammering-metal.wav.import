@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hammering-metal.wav-6703a91f6c42a1d1a0e798c5f1de6a28.sample"
+
+[deps]
+
+source_file="res://audio/hammering-metal.wav"
+dest_files=[ "res://.import/hammering-metal.wav-6703a91f6c42a1d1a0e798c5f1de6a28.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

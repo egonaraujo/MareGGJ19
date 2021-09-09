@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/barrel-break.wav-6dcfb3847f26d1775e9417350c1c7197.sample"
+
+[deps]
+
+source_file="res://audio/barrel-break.wav"
+dest_files=[ "res://.import/barrel-break.wav-6dcfb3847f26d1775e9417350c1c7197.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
