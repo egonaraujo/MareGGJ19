@@ -29,4 +29,4 @@ Build a wall that can be leveled up to level 3 (you can see the direction the ne
 ## Art Designer
 
 * Daniela Jagher
-* Rafael Tajuma
+* Rafael Tajima
